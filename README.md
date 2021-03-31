@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @TCHKVSKY
 - 👀 I’m interested in software development.
-- 🌱 I’m currently learning python.
-- 💞️ I’m looking to collaborate on projects.
+- 🌱 I’m currently learning python with Zuri x Ingressive For Good.
+- 💞️ I’m looking to work on some projects.
 - 📫 How to reach me: eddieikott7@gmail.com
 
 <!---
