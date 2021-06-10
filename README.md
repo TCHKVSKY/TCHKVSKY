@@ -5,17 +5,17 @@
 - 📫 How to reach me: eddieikott7@gmail.com
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-53-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 81 Contributions in the Year 2021
+> 🏆 82 Contributions in the Year 2021
  > 
 > 📦 14.7 kB Used in Github's Storage 
  > 
 > 💼 Opted to Hire
  > 
-> 📜 29 Public Repositories 
+> 📜 30 Public Repositories 
  > 
 > 🔑 5 Private Repositories  
  > 
@@ -51,9 +51,6 @@ Sunday       18 commits     ██████░░░░░░░░░░░�
 No Activity Tracked This Week
 
 🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
 No Activity Tracked This Week
 
 💻 Operating System: 
