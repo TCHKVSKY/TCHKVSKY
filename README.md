@@ -5,7 +5,7 @@
 - 📫 How to reach me: ikott.alexander@gmail.com
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-53-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-60-blue)
 
 **🐱 My Github Data** 
 
@@ -48,16 +48,16 @@ Sunday       18 commits     ██████░░░░░░░░░░░�
 ⌚︎ Time Zone: Africa/Lagos
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   1 hr 22 mins        ██████████████░░░░░░░░░░░   57.91% 
+Markdown                 39 mins             ███████░░░░░░░░░░░░░░░░░░   27.96% 
+JSON                     17 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.51% 
+Text                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.62%
 
 🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
+VS Code                  2 hrs 22 mins       █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  2 hrs 22 mins       █████████████████████████   100.0%
 
 ```
 
