@@ -2,7 +2,7 @@
 - 👀 I’m interested in backend development.
 - 🌱 I’m currently learning Python with Zuri x Ingressive For Good.
 - 💞️ I’m looking to work on some projects.
-- 📫 How to reach me: eddieikott7@gmail.com
+- 📫 How to reach me: ikott.alexander@gmail.com
 
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-53-blue)
