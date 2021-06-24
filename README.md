@@ -5,7 +5,7 @@
 - 📫 How to reach me: ikott.alexander@gmail.com
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-60-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue)
 
 **🐱 My Github Data** 
 
@@ -48,17 +48,13 @@ Sunday       18 commits     ██████░░░░░░░░░░░�
 ⌚︎ Time Zone: Africa/Lagos
 
 💬 Programming Languages: 
-Python                   51 mins             █████████░░░░░░░░░░░░░░░░   37.6% 
-Markdown                 34 mins             ██████░░░░░░░░░░░░░░░░░░░   25.29% 
-HTML                     33 mins             ██████░░░░░░░░░░░░░░░░░░░   24.33% 
-Text                     13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   9.61% 
-CSS                      3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.45%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  2 hrs 16 mins       █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  2 hrs 16 mins       █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -76,7 +72,7 @@ JavaScript               2 repos             ██████░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/TCHKVSKY/TCHKVSKY/main/charts/bar_graph.png) 
 
 
- Last Updated on 23/06/2021
+ Last Updated on 24/06/2021
 <!--END_SECTION:waka-->
 
 
