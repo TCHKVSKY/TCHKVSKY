@@ -5,7 +5,7 @@
 - 📫 How to reach me: ikott.alexander@gmail.com
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My Github Data** 
 
@@ -72,7 +72,7 @@ JavaScript               2 repos             ██████░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/TCHKVSKY/TCHKVSKY/main/charts/bar_graph.png) 
 
 
- Last Updated on 24/06/2021
+ Last Updated on 25/06/2021
 <!--END_SECTION:waka-->
 
 
