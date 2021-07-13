@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TCHKVSKY
 - 👀 I’m interested in backend development.
-- 🌱 I’m currently learning Python with Zuri x Ingressive For Good.
+- 🌱 I’m currently interning with Zuri x Ingressive For Good.
 - 💞️ I’m looking to work on some projects.
 - 📫 How to reach me: ikott.alexander@gmail.com
 
