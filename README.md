@@ -9,13 +9,13 @@
 
 **🐱 My Github Data** 
 
-> 🏆 97 Contributions in the Year 2021
+> 🏆 98 Contributions in the Year 2021
  > 
 > 📦 14.8 kB Used in Github's Storage 
  > 
 > 💼 Opted to Hire
  > 
-> 📜 43 Public Repositories 
+> 📜 44 Public Repositories 
  > 
 > 🔑 5 Private Repositories  
  > 
@@ -77,7 +77,7 @@ JavaScript               2 repos             ██████░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/TCHKVSKY/TCHKVSKY/main/charts/bar_graph.png) 
 
 
- Last Updated on 08/08/2021
+ Last Updated on 09/08/2021
 <!--END_SECTION:waka-->
 
 
